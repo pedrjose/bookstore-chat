@@ -7,4 +7,4 @@ O *Bookstore Chat* é um chatbot de uma livraria simulada, integrada com a intel
 - Instale o node.js e o Postman
 - No terminal, cole o código `git clone https://github.com/pedrjose/bookstore-chat.git`
 - No terminal, digite o comando `npm i` para instalar as depedências necessárias do projeto
-- Através da rota `http://localhost:3000/conversation`, você pode conversar com o atendente da livraria
+- Através da rota `http://localhost:3000/conversation`, você pode conversar com o atendente da livraria via parâmetro `message` no req.body
